@@ -27,6 +27,7 @@ Error Handling: Provide user feedback for incorrect or invalid city searches.
 Responsive Design: Ensure the application looks good and functions well on all devices, with a layout that adapts to different screen sizes.
 Local Storage (Optional): Store the last searched city in local storage to display the weather data for that city upon reopening the app.
 Technologies Used
+
 HTML:
 
 Provides the basic structure of the app, including input fields, buttons, and sections to display weather data.
@@ -53,5 +54,7 @@ Images/SVGs:
 
 
 Utilized for dynamic backgrounds that change based on the current weather conditions.
+
 Summary
+
 The Weather App is a responsive, user-friendly application that provides real-time weather information for cities around the world. Built using core web technologies, the app features dynamic visuals that enhance the user experience by reflecting current weather conditions. The use of a third-party weather API ensures accurate and up-to-date information, while the responsive design guarantees a seamless experience across all devices.
