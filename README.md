@@ -1,5 +1,7 @@
 Weather App
+
 Project Overview
+
 This project is a responsive Weather App developed during a web development internship at CodeTech IT Solutions. The app allows users to check the current weather conditions of any city worldwide. It provides detailed information such as temperature, humidity, wind speed, and weather conditions using an intuitive and user-friendly interface. The application is designed to be visually appealing, with dynamic backgrounds that change according to the weather conditions.
 
 Intern: Chintha Venkata Naveen Kumar Reddy
@@ -37,12 +39,14 @@ CSS:
 Styles the app to create an aesthetically pleasing and responsive design.
 Utilizes dynamic backgrounds and icons to represent different weather conditions.
 Implements responsive design principles to ensure the app looks good on all devices.
+
 JavaScript:
 
 Handles the logic for fetching weather data from a weather API based on user input.
 Uses the DOM API to dynamically update the HTML content with real-time weather information.
 Implements error handling to provide feedback for invalid searches.
 Manages local storage to save the last searched city (if implemented).
+
 Weather API:
 
 A third-party API (e.g., OpenWeatherMap API) is used to fetch real-time weather data based on the city name input by the user.
