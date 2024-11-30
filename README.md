@@ -62,3 +62,8 @@ Utilized for dynamic backgrounds that change based on the current weather condit
 Summary
 
 The Weather App is a responsive, user-friendly application that provides real-time weather information for cities around the world. Built using core web technologies, the app features dynamic visuals that enhance the user experience by reflecting current weather conditions. The use of a third-party weather API ensures accurate and up-to-date information, while the responsive design guarantees a seamless experience across all devices.
+
+
+
+![Screenshot 2024-11-29 175428](https://github.com/user-attachments/assets/7802b59c-9b26-44d5-beb9-1c22b6a0add5)
+
